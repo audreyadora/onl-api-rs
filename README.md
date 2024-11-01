@@ -1,4 +1,4 @@
-# ONL API Bindings
+## ONL API RS Bindgen
 Small wrapper to generate rust bindings for Open Network Linux API (DEB 9)
 
 For use with building custom Open Networking Switch platform
