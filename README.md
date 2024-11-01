@@ -11,7 +11,7 @@ Refer to API docs at: [https://www.opennetlinux.org/](https://www.opennetlinux.o
 - SSH & clone to a target user directory, all needed header folders are in /include 
 - Run cargo build
 > [!Note]
-> ONL is based on Debian 9 Strech. In order to compile with rs-bindgen, clang 5.0+ is needed. I used [this script](https://gist.github.com/sergey-shambir/c2759c6d4ccb943743b2654b2fa6a567) to update LLVM tools before building with cargo
+> ONL is based on Debian 9 Stretch. In order to compile with rs-bindgen, clang 5.0+ is needed. I used [this script](https://gist.github.com/sergey-shambir/c2759c6d4ccb943743b2654b2fa6a567) to update LLVM tools before building with cargo
 ### Output:
 Script will output onl_api.rs in /bindings folder
 
